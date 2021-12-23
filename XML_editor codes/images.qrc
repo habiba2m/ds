@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>icon.ico</file>
+        <file>image/violet-linear-turquoise-gradient-1440x1920-c2-9c23fc-38e99d-a-15-f-14.png</file>
+    </qresource>
+</RCC>
